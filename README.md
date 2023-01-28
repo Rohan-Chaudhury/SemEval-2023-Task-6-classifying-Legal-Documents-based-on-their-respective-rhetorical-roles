@@ -1,5 +1,5 @@
 # SemEval-2023-Task-6-classifying-Legal-Documents-based-on-their-respective-rhetorical-roles
-SemEval-2023-Task-6 (https://sites.google.com/view/legaleval/home): Considered the task of classifying sentences in Legal Documents based on their respective rhetorical roles and obtained a precision on validation dataset of 81.6% in the final approach (Baseline modified with T5-large tokenizer and encoder).
+SemEval-2023-Task-6 (https://sites.google.com/view/legaleval/home): Considered the task of classifying sentences in Legal Documents based on their respective rhetorical roles and obtained a precision on validation dataset of 81.6% in the final approach (Baseline modified with T5-large tokenizer and encoder). More details are present in the report pdf and the presentation.
 
 # Experiment details
 
